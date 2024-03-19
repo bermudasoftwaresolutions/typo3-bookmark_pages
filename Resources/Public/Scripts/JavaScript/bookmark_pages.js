@@ -65,7 +65,7 @@
         },
 
         containsBookmark (bookmark) {
-            return typeof this.list[bookmark.id] === 'object';
+            return typeof this.list[bookmark?.id] === 'object';
         }
     }
 
