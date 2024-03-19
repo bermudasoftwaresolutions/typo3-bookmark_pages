@@ -42,7 +42,7 @@
             "extension-key": "bookmark_pages"
         },
         "branch-alias": {
-            "dev-master": "2.x-dev"
+            "dev-master": "3.0.x-dev"
         }
     }
 }
