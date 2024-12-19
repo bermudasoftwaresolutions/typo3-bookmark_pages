@@ -23,7 +23,7 @@
     "require": {
         "php": ">=7.0",
         "typo3/cms-core": "^10.4 || ^11.5 || ^12.0",
-        "helhum/typoscript-rendering": "^2.3.1"
+        "helhum/typoscript-rendering": "v12.x-dev"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest"
